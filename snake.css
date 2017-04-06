@@ -1,0 +1,14 @@
+#cabezaSerpiente {
+  width: 20px;
+  height: 20px;
+  background-color: green;
+}
+
+#contenedor {
+  width: 500px;
+  height: 500px;
+  border: solid 1px;
+  border-color: black;
+  margin-right: auto;
+  margin-left: auto;
+}
