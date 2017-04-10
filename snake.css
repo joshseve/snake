@@ -7,7 +7,8 @@
 #contenedor {
   width: 500px;
   height: 500px;
-  border: solid 1px;
+  background-color: gray;
+  border: solid 2px;
   border-color: black;
   margin-right: auto;
   margin-left: auto;
